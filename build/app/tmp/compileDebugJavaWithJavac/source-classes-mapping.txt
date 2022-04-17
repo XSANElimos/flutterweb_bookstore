@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/elimos/ebook/MainActivity.java
+ com.elimos.ebook.MainActivity
+com/elimos/ebook/BuildConfig.java
+ com.elimos.ebook.BuildConfig
